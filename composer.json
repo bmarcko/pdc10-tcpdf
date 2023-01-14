@@ -1,0 +1,17 @@
+{
+    "name": "marcko/pdc10-tcpdf",
+    "autoload": {
+        "psr-4": {
+            "Marcko\\Pdc10Tcpdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bmarcko",
+            "email": "cruz.bobbymarcko@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
